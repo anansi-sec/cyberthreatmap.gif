@@ -1,1 +1,1 @@
-# cyberthreatmap.gif
+world.gif
